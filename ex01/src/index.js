@@ -1,6 +1,6 @@
 
 var myPet = {
-    species: "Border collie",
+    species: "Bulldog",
     name: "Piko",
     legs: 4,
     friends: "Luna, Max"
